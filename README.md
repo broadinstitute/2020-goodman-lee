@@ -1,4 +1,4 @@
-# 2020-goodman-lee
+# 2020, Allen Goodman and Sujin Lee
 
 * gene silencing, targeted mutations
 * CCC1 recombinant protein
