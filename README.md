@@ -1,5 +1,9 @@
 # 2020-goodman-lee
 
+* gene silencing, targeted mutations
+* CCC1 recombinant protein
+* α
+
 Ideas:
 
 * improve, add annotations—performance is dependent on localization—the better an object’s localization, the better the classifier
